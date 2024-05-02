@@ -1,0 +1,1 @@
+## Using GENAI to read PDF and answer queries
